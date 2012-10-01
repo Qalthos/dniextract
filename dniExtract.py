@@ -1,10 +1,6 @@
 # quick and dirty .DNI file extraction program by Ken Taylor (taylok2@rpi.edu) - 10/16/00
 # works with the .dni files that come with the realMysttest.
 # simply extracts the files inside the .dni file to a given directory.
-#
-# known bug: doesn't accept path dirnames with spaces in them.
-# workaround: use the DOS equivalent (ie Progra~1 instead of Program Files)
-#             find the DOS equvialent in the properties dialog for a file.
 
 
 # you are given permission to freely distribute, modify, and use pieces of
