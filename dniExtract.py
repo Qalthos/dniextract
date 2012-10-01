@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # quick and dirty .DNI file extraction program by Ken Taylor (taylok2@rpi.edu) - 10/16/00
 # works with the .dni files that come with the realMysttest.
 # simply extracts the files inside the .dni file to a given directory.
