@@ -9,7 +9,7 @@
 #  1) include my dirname and email address in the source and any readme file
 #     and give credit where credit is due
 #  2) include a link to the original dniExtract program
-#     (http:#www.rpi.edu/~taylok2/dniExtract)
+#     (http://www.rpi.edu/~taylok2/dniExtract)
 #
 # you don't have to inform me or ask my permission, but i would really like it
 # if you did tell me about whatever you're doing with my code, because
